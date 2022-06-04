@@ -1,0 +1,31 @@
+{
+  "colores":{
+    "p1" : "rgb(255, 255, 255)",
+    "p2" : "rgb(255, 100, 50)",
+    "p3" : "rgb(50, 255, 100)",
+    "p4" : "rgb(150, 255, 100)",
+    "p5" : "rgb(100, 255, 150)",
+    "p6" : "rgb(150, 255, 255)",
+    "p7" : "rgb(255, 255, 150)"
+  },
+  "videos":{
+    "p1" : "https://media3.giphy.com/media/BbEoEg2laWRuYaXKGG/giphy.mp4",
+    "p2" : "https://media4.giphy.com/media/1hTQIgyY5sk3IGKRWu/giphy.mp4?cid=790b761154a66ce8544f5abb2dcd4eb6f8f7fb0ef8a77a58&rid=giphy.mp4&ct=g",
+    "p3" : "https://media3.giphy.com/media/l396NHumGX5UmEA2k/giphy.mp4?cid=ecf05e47urs4u5wci32kavo66b4pj5byt5eupfif97zibeqb&rid=giphy.mp4&ct=g",
+    "p4" : "https://media1.giphy.com/media/3osBLlsqoiD8tZytJ6/giphy.mp4?cid=ecf05e47od9bo1y0eh6zsyi7vrjzzta1w26qfflqwdrjg9wx&rid=giphy.mp4&ct=g",
+    "p5" : "https://media0.giphy.com/media/TF0n8h45YRMNm2VbHC/giphy.mp4?cid=ecf05e47mfy19ke02p01qxdxc603xgnbl6t9of7xalq05a1u&rid=giphy.mp4&ct=g",
+    "p6" : "https://media2.giphy.com/media/26n79ZA396LgYHiiQ/giphy.mp4?cid=ecf05e47hsw2b0hanbirxw9d3chb9s99ez78yfr13n07ge1i&rid=giphy.mp4&ct=g",
+    "p7" : "https://media2.giphy.com/media/DSamaYcjzyjU0Wx7TY/giphy.mp4?cid=ecf05e479nctaamz03w4fbd7p10arnepf1vui18h6qsm74jg&rid=giphy.mp4&ct=g"
+  },
+
+  "audios":{
+    "p1" : "audios/musica.mp3",
+    "p2" : "audios/miSonido.mp3",
+    "p3" : "audios/miSonido.mp3",
+    "p4" : "audios/miSonido.mp3",
+    "p5" : "audios/miSonido.mp3",
+    "p6" : "audios/miSonido.mp3",
+    "p7" : "audios/miSonido.mp3"
+
+  }
+}
